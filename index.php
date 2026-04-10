@@ -51,7 +51,7 @@ require_once 'pkmn.php';
                 <span class="desc">Resultados de las pruebas de carga con Apache JMeter</span>
             </div>
         </a>
-        <a href="https://github.com/tuusuario/tu-repositorio" target="_blank" class="btn-menu">
+        <a href="https://github.com/DeloNilfgaardian/DWES_UD9_T09" target="_blank" class="btn-menu">
             <span class="icono">🐙</span>
             <div>
                 <span class="titulo">Repositorio GitHub</span>
