@@ -6,7 +6,7 @@
  * Proporciona métodos para obtener listados paginados de Pokémon,
  * sus datos de detalle, y utilidades de presentación como el icono SVG.
  *
- * @author  Delshad Abdi Novillo
+ * @author  DeloNilfgaardian
  * @version 1.0
  */
 
