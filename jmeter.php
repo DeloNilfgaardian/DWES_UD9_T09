@@ -6,7 +6,7 @@
  * realizada con Apache JMeter sobre la aplicación PokéDex.
  * Configuración: 200 usuarios, 10 min ramp-up, 5 min hold.
  *
- * @author  Delshad Abdi Novillo
+ * @author  DeloNilfgaardian
  * @version 1.0
  */
 
