@@ -6,7 +6,7 @@
  * Actúa como menú de navegación y da acceso a las distintas
  * secciones: PokéDex, documentación PHPDoc, pruebas JMeter y repositorio GitHub.
  *
- * @author  Delshad Abdi Novillo
+ * @author  DeloNilfgaardian
  * @version 1.0
  */
 require_once 'pkmn.php';
