@@ -6,7 +6,7 @@
  * muestra los Pokémon en tarjetas paginadas e incluye información de tipos,
  * estadísticas, altura y peso de cada uno.
  *
- * @author  Delshad Abdi Novillo
+ * @author  DeloNilfgaardian
  * @version 1.0
  */
 
